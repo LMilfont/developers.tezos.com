@@ -26,4 +26,6 @@ tutorials:
     link: https://github.com/TezosRio/TezosJ_SDK
   - title: TezosJ_plainJava (Java)
     link: https://github.com/TezosRio/TezosJ_plainJava
+  - title: Netezos library (.NET)
+    link: https://github.com/baking-bad/netezos
 ---
